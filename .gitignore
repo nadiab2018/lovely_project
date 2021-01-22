@@ -1,8 +1,8 @@
-new_new.R
+*.html
 
+new_new.R
 *.ppts
 *.docx
-
 # History files
 .Rhistory
 .Rapp.history
